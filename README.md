@@ -17,7 +17,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://effortless-gelato-738bfe.netlify.app/)
 
 ## Built with
 
